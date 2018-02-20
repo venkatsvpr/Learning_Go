@@ -1,2 +1,5 @@
 # Learning_Go
-Go Language Syntax and learning for beginners
+Create this Repo to have step by step syntaxes for Go Language
+Would help greatly to revise the syntax
+
+Level: Beginner
